@@ -1,0 +1,17 @@
+{
+    "name": "fitri/pbwl_uts",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan Tahun 2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fitri",
+            "email": "fitriannisapurba151@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,102 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+ 
+aside {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #a2c4f7;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.brand {
+    width: 80px;
+}
+
+.user {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+main {
+    margin-left: 210px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    padding: 10px 20px;
+    margin: 5px 0 5px 0;
+    display: block;
+    color: #110101;
+}
+
+nav a:hover {
+    background-color: #dde0e6;
+}
+
+nav .icon {
+    width: 25px;
+    float: left;
+    padding-right: 10px;
+}
+
+.info {
+    background-color: #f5f7fa;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+table {
+    margin: 15px 0;
+    border: 1px solid #5198f5;
+    border-collapse: collapse;
+    width: 75%;
+}
+
+table th {
+    border: 1px solid #5198f5;
+    padding: 8px;
+    background-color: #5582f5;
+}
+
+table td {
+    border: 1px solid #5198f5;
+    padding: 8px;
+}
+
+.btn {
+    background-color: #1a6ed8;
+    border-radius: 4px;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.btn:hover {
+    background-color: #1a6ed8;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    padding: 20px 0 20px 10px;
+    background-color: #81a9e4;
+    width: 100%;
+    border-top: 1px solid #9eb6f3;
+}
